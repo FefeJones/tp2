@@ -15,9 +15,24 @@ class Game{
     private String developers;
     private String[] genres;
 
+    public static Game{
+    //inicializador
+    app_id = 0; 
+    name = "";
+    release_date = "" //verificar
+    owners = "";
+    age = 0;
+    price = 0;
+    dlcs = 0;
+    vet 
+    }
+    public int getApp_Id(int app_id){
 
+    }
 
-
+    public void setApp_Id(){
+        return this.app_id;
+    }
 
     public static void main(String[] args){
 
